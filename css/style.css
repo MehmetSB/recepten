@@ -1,0 +1,112 @@
+
+body{
+background-image: url('../img/kapsalon.jpeg');
+background-size: 100%;
+background-repeat: no-repeat;
+
+
+   filter:alpha(opacity=80);
+
+}
+
+
+
+
+.header{
+  height: 50%;
+  width: 495px;
+  margin-left: auto;
+  margin-right: auto;
+  font-size: 30px;
+  color: black;
+}
+
+#content{
+background-color: #d9d9d9;
+color: black;
+height: 700px;
+width: 1300px;
+margin-left: auto;
+margin-right: auto;
+margin-top: 20px;
+text-align: center;
+opacity: 0.4;
+font-size: 20px;
+  position:relative;
+  border:1px solid black;
+
+}
+
+.kapsalon{
+color: black;
+margin-left: 380px;
+margin-right: auto;
+margin-top: -700px;
+text-align: center;
+position:absolute;
+font-size: 18px;
+}
+
+.geschiedenis{
+color: black;
+margin-left: 390px;
+margin-right: auto;
+margin-top: -620px;
+text-align: center;
+position:absolute;
+font-size: 18px;
+width: 1150px;
+}
+
+.lijst{
+  color: black;
+  margin-left: 320px;
+  margin-right: auto;
+  margin-top: -510px;
+  position:absolute;
+  font-size: 20px;
+  width: 370px;
+
+}
+.lijst h2{
+text-align: center;
+
+}
+.bereiden{
+  color: black;
+  margin-left: 890px;
+  margin-right: auto;
+  margin-top: -510px;
+  position:absolute;
+  font-size: 20px;
+  width: 700px;
+}
+.bereiden h2{
+text-align: center;
+}
+.eetsmakelijk
+{
+font-size: 40px;
+margin-left: 1050px;
+margin-right: auto;
+margin-top: -210px;
+color: red;
+}
+
+.footer{
+  height: 50%;
+  width: 495px;
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: 140px;
+  font-size: 30px;
+  color: black;
+}
+
+.footer a:visited{
+color: white;
+}
+
+.footer a:hover{
+color: red;
+}
